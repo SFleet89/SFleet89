@@ -28,6 +28,7 @@ The original standalone duplicate finder — compare an unsorted music collectio
 
 **Libraries:** `mutagen` · `tqdm` · `rapidfuzz` · `Chromaprint (fpcalc)`
 
+
 ---
 
 ## 📚 Currently learning
