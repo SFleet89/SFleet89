@@ -14,6 +14,10 @@ A collection of utilities for organising, deduplicating, and cleaning up a music
 | **Duplicate Finder** | Compares an unsorted folder against your library using filename matching, metadata tags, and audio fingerprinting |
 | **Filename Scanner** | Flags messy filenames and tracks cleanup progress over time |
 | **Library Dupes** | Finds the same song duplicated across different artist folders |
+| **Sort Albums to Artists** | Reads Album Artist tags and sorts flat album folders into artist subfolders |
+| **Sort CD Tracks** | Sorts multi-disc tracks into CD1/CD2 subfolders using the disc number tag |
+| **Clean Album Folders** | Moves non-music files (NFOs, logs, artwork) to a holding folder for review |
+| **Anjuna MB Lookup** | Batch looks up Anjunabeats releases on MusicBrainz by catalogue number |
 | **Utilities** | Batch rename folders by album tag, fix CD numbering, and more |
 
 ### [music-duplicate-finder](https://github.com/SFleet89/music-duplicate-finder)
@@ -27,7 +31,6 @@ The original standalone duplicate finder — compare an unsorted music collectio
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 **Libraries:** `mutagen` · `tqdm` · `rapidfuzz` · `Chromaprint (fpcalc)`
-
 
 ---
 
