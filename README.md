@@ -1,10 +1,19 @@
 # Hi, I'm SFleet89 👋
 
-I build practical Python tools for managing and organising large music libraries — focused on making tedious cleanup tasks safe, reviewable, and repeatable. Currently turning that toolkit into a full desktop application.
+I build practical tools that make tedious, repeatable work safe and reviewable — Python automation and offline single-page web apps. The common thread: **dry-run and offline-first by default** — nothing moves, renames, tags, or leaves your machine without your say-so.
 
 ---
 
-## 🎵 Projects
+## 🎮 Game tools
+
+### [the-tower-unified-tools](https://github.com/SFleet89/the-tower-unified-tools)
+A free, **offline, all-in-one companion** for *The Tower – Idle Tower Defense*. One HTML page you open in your browser — no install, no server, no account, and nothing ever leaves your device. Load your `playerInfo.dat` save and it auto-fills every tab.
+
+Lab / UW / Workshop cost calculators · a Farm Run Tracker with analytics · an Income Planner · a **Waves ↔ Hours** farm clock · modules, bots, cards, guardian, relics, perks, and milestones. Values are ported from the game's own data and cross-checked, and the wave-rate model is verified against real save runs — all guarded by a JS regression-test harness.
+
+---
+
+## 🎵 Music tools
 
 ### [music-tools](https://github.com/SFleet89/music-tools)
 A growing suite of utilities for organising, cleaning, and tagging a music library — with a PySide6 desktop GUI in active development.
@@ -36,6 +45,7 @@ The original standalone duplicate finder — compare an unsorted collection agai
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
@@ -49,4 +59,4 @@ Desktop application development with PySide6 (Qt) · Cybersecurity
 
 ---
 
-*All tools are dry-run by default — nothing moves, renames, or tags without your confirmation.*
+*Everything I build is dry-run / offline by default — nothing moves, renames, tags, or uploads without your confirmation.*
